@@ -1,11 +1,10 @@
-This is Version 0.1.0 of storyvars
+This is Version {{version}} of {{name}}
 =======================================
 
-command line glue for using handlebars in local files
+{{description}}
 
 Usage
 
 ```
 node compile.js example_2/description.md package.json
 ```
-
