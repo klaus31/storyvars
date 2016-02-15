@@ -1,6 +1,7 @@
 {
   "name": "storyvars",
-  "description": "storyvars",
+  "version": "0.1.0",
+  "description": "command line glue for using handlebars in local files",
   "devDependencies": {
     "handlebars": "4.0.5"
   },
