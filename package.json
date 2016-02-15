@@ -1,0 +1,11 @@
+{
+  "name": "storyvars",
+  "description": "storyvars",
+  "devDependencies": {
+    "handlebars": "4.0.5"
+  },
+  "scripts": {
+    "build": "node compile.js"
+  },
+  "author": "Daniel Oltmanns"
+}
